@@ -6,7 +6,7 @@ import { cn } from '@/lib/utils'
 
 const fields = [
   { name: 'name', label: 'Full Name', type: 'text', placeholder: 'Your name' },
-  { name: 'email', label: 'Email Address', type: 'email', placeholder: 'you@example.com' },
+  { name: 'email', label: 'Email Address', type: 'email', placeholder: 'bushrahcollections27@gmail.com' },
   { name: 'phone', label: 'Phone Number', type: 'tel', placeholder: '09159161703' },
   { name: 'subject', label: 'Subject', type: 'text', placeholder: 'How can we help?' },
 ] as const

@@ -12,7 +12,7 @@ const categories = [
   },
   {
     title: 'Seamless Underwear',
-    description: 'Smooth, barely-there fabrics that move with you.',
+    description: 'Smooth, soft fabrics that move with you.',
     image: '/images/category-seamless.png',
   },
   {

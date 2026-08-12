@@ -14,7 +14,7 @@ export function BrandStatement() {
         <div className="relative z-10 mx-auto flex max-w-3xl flex-col items-center gap-6">
           <Eyebrow>More Than What You Wear</Eyebrow>
           <p className="font-serif text-3xl leading-snug text-balance sm:text-4xl md:text-5xl">
-            A beautiful private experience—where comfort meets confidence,
+            A beautiful private experience, where comfort meets confidence,
             quality meets elegance.
           </p>
           <p className="max-w-xl leading-relaxed text-primary-foreground/75">
